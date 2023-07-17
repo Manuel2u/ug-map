@@ -1,4 +1,4 @@
-package app.graph;
+package src.graph;
 
 public class Node {
     private String name;

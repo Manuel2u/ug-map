@@ -1,16 +1,15 @@
-package app.algorithms;
+package src.algorithms;
 
 import java.util.Arrays;
-import java.util.Set;
 
 import static java.util.Arrays.stream;
 
 import java.util.ArrayList;
 import java.util.concurrent.*;
 
-import app.graph.Edge;
-import app.graph.Graph;
-import app.graph.Node;
+import src.graph.Edge;
+import src.graph.Graph;
+import src.graph.Node;
  
 public class VogelsApproximationMethod {
  

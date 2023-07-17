@@ -1,4 +1,4 @@
-package app.graph;
+package src.graph;
 
 
 public class Edge implements Comparable<Edge>, Cloneable{

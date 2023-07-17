@@ -1,4 +1,4 @@
-package app.algorithms;
+package src.algorithms;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -6,9 +6,9 @@ import java.util.List;
 import java.util.PriorityQueue;
 import java.util.AbstractMap.SimpleEntry;
 
-import app.graph.Graph;
-import app.graph.Edge;
-import app.graph.Node;
+import src.graph.Graph;
+import src.graph.Edge;
+import src.graph.Node;
 
 public class AStar {
 

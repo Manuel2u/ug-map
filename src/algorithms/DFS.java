@@ -1,9 +1,9 @@
-package app.algorithms;
+package src.algorithms;
 
 import java.util.ArrayList;
 
-import app.graph.Graph;
-import app.graph.Node;
+import src.graph.Graph;
+import src.graph.Node;
 
 public class DFS {
     public static ArrayList<ArrayList<Node>> ALL_PATHS = new ArrayList<>();

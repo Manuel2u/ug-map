@@ -1,4 +1,4 @@
-package app;
+package src;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,13 +6,13 @@ import java.util.List;
 import javax.swing.*;
 import java.awt.*;    
 
-import app.algorithms.AStar;
-import app.algorithms.DFS;
-import app.algorithms.Dijkstra;
-import app.algorithms.VogelsApproximationMethod;
-import app.graph.Edge;
-import app.graph.Graph;
-import app.graph.Node;
+import src.algorithms.AStar;
+import src.algorithms.DFS;
+import src.algorithms.Dijkstra;
+import src.algorithms.VogelsApproximationMethod;
+import src.graph.Edge;
+import src.graph.Graph;
+import src.graph.Node;
 
 
 public class Main{

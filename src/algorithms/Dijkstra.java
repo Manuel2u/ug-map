@@ -1,11 +1,11 @@
-package app.algorithms;
+package src.algorithms;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import app.graph.Graph;
-import app.graph.Edge;
-import app.graph.Node;
+import src.graph.Graph;
+import src.graph.Edge;
+import src.graph.Node;
 
 public class Dijkstra {
     // Track all unvisited nodes in the graph.
